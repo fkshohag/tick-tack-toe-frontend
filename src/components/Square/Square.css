@@ -1,0 +1,18 @@
+.square {
+  width: 33.3%;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid lightgray;
+}
+
+.square-1 {
+  background-image: url('/cross.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.square-2 {
+  background-image: url('/zero.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
